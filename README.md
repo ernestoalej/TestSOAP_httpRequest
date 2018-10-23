@@ -1,2 +1,2 @@
 # TestSOAP_httpRequest
-Lleer sopa asmx desde Xamarin
+Leer SOA asmx desde con HttpWebRequest.
