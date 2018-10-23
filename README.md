@@ -1,2 +1,2 @@
 # TestSOAP_httpRequest
-Leer SOA asmx desde con HttpWebRequest.
+Leer SOAP asmx desde con HttpWebRequest.
